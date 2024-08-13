@@ -1,2 +1,2 @@
 # tn226
-Fundamentals-of-Proramming
+Fundamentals-of-Programming
